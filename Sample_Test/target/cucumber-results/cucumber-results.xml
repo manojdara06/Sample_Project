@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="44.127869">
+<testcase classname="Verify the login of applications" name="Verify user is able to login successfully" time="44.127869">
+<system-out><![CDATA[Given I am on the login page of gmail.......................................passed
+And I enter username as "daramanoj.92"......................................passed
+When I click on next button after entering correct username.................passed
+And I enter password as "chintu0692" and click on sign in button............passed
+And I click on mail icon in my account for gmail............................passed
+Then I click on Inbox in mail after clicking login button...................passed
+]]></system-out>
+</testcase>
+</testsuite>

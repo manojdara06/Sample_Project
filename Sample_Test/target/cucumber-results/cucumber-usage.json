@@ -1,0 +1,110 @@
+[
+  {
+    "source": "^I enter password as \"([^\"]*)\" and click on sign in button$",
+    "steps": [
+      {
+        "name": "I enter password as \"chintu0692\" and click on sign in button",
+        "aggregatedDurations": {
+          "average": 4.47434384,
+          "median": 4.47434384
+        },
+        "durations": [
+          {
+            "duration": 4.47434384,
+            "location": "sampleFeatureFile.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter username as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter username as \"daramanoj.92\"",
+        "aggregatedDurations": {
+          "average": 0.911765087,
+          "median": 0.911765087
+        },
+        "durations": [
+          {
+            "duration": 0.911765087,
+            "location": "sampleFeatureFile.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click on next button after entering correct username$",
+    "steps": [
+      {
+        "name": "I click on next button after entering correct username",
+        "aggregatedDurations": {
+          "average": 0.350960037,
+          "median": 0.350960037
+        },
+        "durations": [
+          {
+            "duration": 0.350960037,
+            "location": "sampleFeatureFile.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click on mail icon in my account for gmail$",
+    "steps": [
+      {
+        "name": "I click on mail icon in my account for gmail",
+        "aggregatedDurations": {
+          "average": 21.451006088,
+          "median": 21.451006088
+        },
+        "durations": [
+          {
+            "duration": 21.451006088,
+            "location": "sampleFeatureFile.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am on the login page of gmail$",
+    "steps": [
+      {
+        "name": "I am on the login page of gmail",
+        "aggregatedDurations": {
+          "average": 3.124182884,
+          "median": 3.124182884
+        },
+        "durations": [
+          {
+            "duration": 3.124182884,
+            "location": "sampleFeatureFile.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click on Inbox in mail after clicking login button$",
+    "steps": [
+      {
+        "name": "I click on Inbox in mail after clicking login button",
+        "aggregatedDurations": {
+          "average": 8.501349596,
+          "median": 8.501349596
+        },
+        "durations": [
+          {
+            "duration": 8.501349596,
+            "location": "sampleFeatureFile.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]
